@@ -5,6 +5,9 @@
 ## Users story
 - ### A user is able to assign Ricks and Mortys a universe number
 - ### A user is able to add residents to the Citadel
+    - #### Citadel has residents
+    - #### All residents from Citadel can be gotten
+    - #### User can add residents to Citadel
 - ### A user is able to turn all Ricks with assigned Mortys to pickles
     - #### Rick has a morty
     - #### Rick has a pickle
