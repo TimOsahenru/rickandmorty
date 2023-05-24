@@ -12,3 +12,11 @@
     - #### Rick can assign a Morty
     - #### Pickle Rick with assigned Morty
 
+
+
+
+### Three branches are created, one for each main user stories
+- #### Rick and Morty have universe number
+- #### Citadel has residents
+- #### Pickle Rick with Morty
+
